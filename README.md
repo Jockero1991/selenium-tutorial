@@ -1,2 +1,2 @@
 # selenium-tutorial
-Training 
+Training selenium skills
